@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## AI-Native Cloud Security Engineer
+## Native Cloud Security Engineer
 
 Building Runtime Security Infrastructure for the AI Era.
 
@@ -35,7 +35,7 @@ With 7+ years of experience across gaming, finance, government, and large-scale 
 
 ### Matrix Cloud Security Platform
 
-AI-native cloud security platform focused on:
+Native cloud security platform focused on:
 
 - Runtime Detection
 - eBPF Event Collection
