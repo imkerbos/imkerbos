@@ -1,90 +1,156 @@
-## 👋 Hi, I'm Kerbos (@imkerbos)
+# Kerbos
 
-**Security & Platform Engineer**  
-Cloud-Native Security • Traffic Defense • Ops Automation • AI for Ops
+<div align="center">
 
-I focus on building **security platforms, traffic defense systems, and ops platforms** in cloud-native environments.  
-Currently working on **security platforms**, **network stress / CC simulation**, and exploring **AI-powered ops & security automation**.
+## AI-Native Cloud Security Engineer
 
----
+Building Runtime Security Infrastructure for the AI Era.
 
-## 🔭 What I'm working on
-
-### 🔐 Security Platform
-- **mxsec-platform**  
-  Cloud-native security platform integrating **EDR / CWPP / baseline hardening / vulnerability management**, designed for internal enterprise environments.
-
-- **ACME-Console**  
-  Internal certificate management platform supporting **multi-domain SAN**, wildcard certs, **manual DNS-01**, and lifecycle management.
-
-### 🌐 Traffic & Network Defense
-- **HurricaneX**  
-  Distributed **L7 traffic stress & behavior simulation platform**, supporting:
-  - HTTP / HTTPS stress
-  - TLS handshake simulation
-  - CC behavior modeling  
-  Built on **AF_XDP architecture**, no DPDK required.
-
-### ⚙️ Ops & Observability Platform
-- **TicketDesk**  
-  Ops-facing ticket & alert collaboration platform, bridging **monitoring → alert → ticket → resolution**, improving observability-driven operations.
-
-- **db-probe**  
-  Database probing tool written in **Go**, exporting metrics to **Prometheus** for observability and capacity insight.
-
-- **ops-os-init**  
-  Reusable **Linux initialization & security hardening Ansible playbooks**, providing baseline configuration, system tuning, and security reinforcement.
+</div>
 
 ---
 
-## 🤖 AI × Security / Ops (Exploring)
-I’m actively exploring the intersection of **AI + Security / Ops**, including:
-- Alert & log analysis using LLMs
-- Attack traffic behavior interpretation
-- AI-assisted incident response & ChatOps
-- LLM-driven ops automation (DeepSeek / MCP)
+## About
 
-> Goal: reduce human cognitive load in security & operations.
+I focus on:
 
----
+* Cloud Native Security
+* Runtime Detection & eBPF
+* Kubernetes Security
+* DevSecOps Platform Engineering
+* AI Infrastructure & MCP Ecosystem
+* Autonomous Security Operations
 
-## 💞️ Open to collaborate on
-- Cloud-native **security platform engineering**
-- **Traffic defense / WAF / CC behavior simulation**
-- Kubernetes platform governance & ops automation
-- Observability systems (metrics, logs, alert tuning, SLO)
-- AI-powered ops / security tooling
+With 7+ years of experience across gaming, finance, government, and large-scale infrastructure environments.
 
 ---
 
-## 🧰 Tech Stack
+## Current Focus
 
-**Cloud & Infra**
-- AWS / GCP
-- Kubernetes, ArgoCD, Helm
+### Matrix Cloud Security Platform
 
-**Observability**
-- Prometheus, Loki, ELK
+Building an AI-native cloud security platform focused on:
 
-**Languages**
-- Golang, Vue3, Shell, Python
-
-**Security**
-- WAF / Traffic defense
-- Baseline hardening
-- Audit & security automation
+* Runtime Detection
+* eBPF Event Collection
+* Container Threat Detection
+* Kubernetes Security
+* Vulnerability Analysis
+* Intelligent Security Correlation
+* Autonomous Response
 
 ---
 
-## 📫 Contact
-- Email: **0xkerbos [at] gmail.com**
+### MXID
+
+Enterprise Identity & Access Management Platform.
+
+* SSO / EIAM
+* OIDC / SAML / CAS / JWT
+* Organization & RBAC
+* Audit & Security Logging
+* Application Access Gateway
+* Third-party Identity Integration
 
 ---
 
-⭐ If you find my projects useful, feel free to star or reach out.
+### MXCMDB
 
+Modern Infrastructure Management Platform.
 
-<!---
-imkerbos/imkerbos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* CMDB
+* IPAM
+* Cloud Account Management
+* Asset Discovery
+* File Distribution
+* Task Orchestration
+* Agentless Architecture
+
+---
+
+## Research Areas
+
+* AI Security
+* Runtime Security
+* eBPF Detection
+* Cloud Native Defense
+* Kubernetes Runtime Protection
+* CNAPP / CWPP Architecture
+* Autonomous DevSecOps
+* AI-assisted Threat Analysis
+
+---
+
+## Technology
+
+```txt
+Cloud Native:
+Kubernetes · Docker · ArgoCD · Helm
+
+Infrastructure:
+Linux · AWS · GCP · Nginx · MySQL · Redis
+
+Observability:
+Prometheus · Loki · ELK · Grafana
+
+Programming:
+Go · Python · Shell
+
+Security:
+eBPF · Runtime Detection · Threat Hunting · Container Security
+```
+
+---
+
+## Selected Areas of Work
+
+* Kubernetes Security Hardening
+* Runtime Detection Engine
+* eBPF Security Research
+* DevSecOps Platform Architecture
+* AI Ops Infrastructure
+* Cloud-native SIEM
+* Infrastructure Automation
+* Security Event Correlation
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=imkerbos&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkerbos&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imkerbos&theme=github-compact&hide_border=true" />
+
+</div>
+
+---
+
+## Philosophy
+
+> Security should be embedded into infrastructure, not added afterwards.
+
+---
+
+## Contact
+
+* GitHub: [https://github.com/imkerbos](https://github.com/imkerbos)
+
+---
+
+<div align="center">
+
+Building secure infrastructure for modern AI systems.
+
+</div>
