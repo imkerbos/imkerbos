@@ -6,22 +6,28 @@
 
 Building Runtime Security Infrastructure for the AI Era.
 
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Cloud+Native+Security;Runtime+Detection+%26+eBPF;AI+Infrastructure+Engineering;Kubernetes+Security;DevSecOps+Platform+Engineering" />
+
 </div>
 
 ---
 
 ## About
 
-I focus on:
+I focus on building modern cloud-native security and infrastructure platforms.
 
-* Cloud Native Security
-* Runtime Detection & eBPF
-* Kubernetes Security
-* DevSecOps Platform Engineering
-* AI Infrastructure & MCP Ecosystem
-* Autonomous Security Operations
+My work includes:
 
-With 7+ years of experience across gaming, finance, government, and large-scale infrastructure environments.
+- Runtime Detection & eBPF
+- Kubernetes Security
+- AI Infrastructure
+- DevSecOps Platform Engineering
+- Cloud Security Architecture
+- Autonomous Security Operations
+
+With 7+ years of experience across gaming, finance, government, and large-scale production environments.
 
 ---
 
@@ -29,15 +35,15 @@ With 7+ years of experience across gaming, finance, government, and large-scale 
 
 ### Matrix Cloud Security Platform
 
-Building an AI-native cloud security platform focused on:
+AI-native cloud security platform focused on:
 
-* Runtime Detection
-* eBPF Event Collection
-* Container Threat Detection
-* Kubernetes Security
-* Vulnerability Analysis
-* Intelligent Security Correlation
-* Autonomous Response
+- Runtime Detection
+- eBPF Event Collection
+- Kubernetes Security
+- Container Threat Detection
+- Vulnerability Analysis
+- Intelligent Security Correlation
+- Autonomous Response
 
 ---
 
@@ -45,12 +51,12 @@ Building an AI-native cloud security platform focused on:
 
 Enterprise Identity & Access Management Platform.
 
-* SSO / EIAM
-* OIDC / SAML / CAS / JWT
-* Organization & RBAC
-* Audit & Security Logging
-* Application Access Gateway
-* Third-party Identity Integration
+- SSO / EIAM
+- OIDC / SAML / CAS / JWT
+- RBAC & Organization Management
+- Audit Logging
+- Access Gateway
+- Third-party Identity Integration
 
 ---
 
@@ -58,45 +64,45 @@ Enterprise Identity & Access Management Platform.
 
 Modern Infrastructure Management Platform.
 
-* CMDB
-* IPAM
-* Cloud Account Management
-* Asset Discovery
-* File Distribution
-* Task Orchestration
-* Agentless Architecture
+- CMDB
+- IPAM
+- Asset Discovery
+- Cloud Account Management
+- Task Orchestration
+- File Distribution
+- Agentless Architecture
 
 ---
 
 ## Research Areas
 
-* AI Security
-* Runtime Security
-* eBPF Detection
-* Cloud Native Defense
-* Kubernetes Runtime Protection
-* CNAPP / CWPP Architecture
-* Autonomous DevSecOps
-* AI-assisted Threat Analysis
+- AI Security
+- Runtime Security
+- eBPF Detection
+- Kubernetes Runtime Protection
+- Cloud Native Defense
+- CNAPP / CWPP
+- Autonomous DevSecOps
+- AI-assisted Threat Analysis
 
 ---
 
 ## Technology
 
 ```txt
-Cloud Native:
+Cloud Native
 Kubernetes · Docker · ArgoCD · Helm
 
-Infrastructure:
+Infrastructure
 Linux · AWS · GCP · Nginx · MySQL · Redis
 
-Observability:
+Observability
 Prometheus · Loki · ELK · Grafana
 
-Programming:
+Programming
 Go · Python · Shell
 
-Security:
+Security
 eBPF · Runtime Detection · Threat Hunting · Container Security
 ```
 
@@ -104,14 +110,14 @@ eBPF · Runtime Detection · Threat Hunting · Container Security
 
 ## Selected Areas of Work
 
-* Kubernetes Security Hardening
-* Runtime Detection Engine
-* eBPF Security Research
-* DevSecOps Platform Architecture
-* AI Ops Infrastructure
-* Cloud-native SIEM
-* Infrastructure Automation
-* Security Event Correlation
+- Kubernetes Security Hardening
+- Runtime Detection Engine
+- eBPF Security Research
+- DevSecOps Platform Architecture
+- AI Ops Infrastructure
+- Cloud-native SIEM
+- Infrastructure Automation
+- Security Event Correlation
 
 ---
 
@@ -119,9 +125,9 @@ eBPF · Runtime Detection · Threat Hunting · Container Security
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=imkerbos&show_icons=true&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=imkerbos&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkerbos&layout=compact&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkerbos&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 </div>
 
@@ -131,7 +137,7 @@ eBPF · Runtime Detection · Threat Hunting · Container Security
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imkerbos&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imkerbos&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -143,9 +149,9 @@ eBPF · Runtime Detection · Threat Hunting · Container Security
 
 ---
 
-## Contact
+## Connect
 
-* GitHub: [https://github.com/imkerbos](https://github.com/imkerbos)
+- GitHub: https://github.com/imkerbos
 
 ---
 
